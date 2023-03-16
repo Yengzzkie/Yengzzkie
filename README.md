@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Manuel Gatchalian</h1>
-<h3 align="center">Your next Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Manuel</h1>
+<h3 align="center">Your next Software Developer!</h3>
 
 - 🌱 I’m currently learning **React Native**
 
