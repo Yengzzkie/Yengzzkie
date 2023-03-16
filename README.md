@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">Your next Software Developer!</h3>
 
+- 🔭 I’m currently working on [Flappy Bird Clone](https://media1.giphy.com/media/euuaA2cwLEUuI/giphy.gif)
+
 - 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **gatchalian.manuel@ymail.com**
