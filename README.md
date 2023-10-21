@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Friendster Clone]
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **gatchalian.manuel@ymail.com**
 
