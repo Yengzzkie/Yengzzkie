@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">Your next Software Developer!</h3>
 
-- 🔭 I’m currently working on [Friendster Clone]
+- 🔭 I’m currently working on a [Marketplace Website]
 
 - 🌱 I’m currently learning **MERN Stack**
 
